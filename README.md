@@ -13,7 +13,6 @@ I’ve built over 100 public repos, but privately.. it’s probably more than 20
 
 #### Fun Facts:
 
-* I have two cats
 * I don’t like coffee or tea
 * Demon Slayer is my favorite anime
 * **Hobbies:** anime, gym, building things
