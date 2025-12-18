@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**abhishek-batti01/abhishek-batti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-Here are some ideas to get you started:
+I’m [**Abhishek**], a develooper based in india.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build whatever I can imagine.
+
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are gemini, notion, and procreate on my window.
+
+I’ve built over 100 public repos, but privately.. it’s probably more than 200 at this point.
+
+#### Fun Facts:
+
+* I have two cats
+* I don’t like coffee or tea
+* Demon Slayer is my favorite anime
+* **Hobbies:** anime, gym, building things
+
